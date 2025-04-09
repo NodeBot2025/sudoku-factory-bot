@@ -1,0 +1,5 @@
+OUTPUT_DIR = "output_books"
+BOOK_COUNT = 10
+PUZZLES_PER_BOOK = 100
+TRIM_SIZE = "8.5x11"
+AUTHOR_NAME = "PuzzleCraft Press"
